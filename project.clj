@@ -1,6 +1,6 @@
-(defproject cryogen-core "0.1.56"
+(defproject com.jombelajarjava/cryogen-core "0.1.56"
             :description "Cryogen's compiler"
-            :url "https://github.com/cryogen-project/cryogen-core"
+            :url "https://github.com/JomBelajarJava/cryogen-core"
             :license {:name "Eclipse Public License"
                       :url  "http://www.eclipse.org/legal/epl-v10.html"}
             :dependencies [[org.clojure/clojure "1.8.0"]

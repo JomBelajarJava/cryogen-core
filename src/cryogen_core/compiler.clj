@@ -511,6 +511,7 @@
                         :title         (:site-title config)
                         :active-page   "home"
                         :tags          (map (partial tag-info config) (keys posts-by-tag))
+                        :all-posts     posts
                         :latest-posts  latest-posts
                         :navbar-pages  navbar-pages
                         :sidebar-pages sidebar-pages
