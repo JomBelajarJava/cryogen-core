@@ -1,6 +1,6 @@
 # cryogen-core
 
-> DON'T USE THIS VERSION OF CRYOGEN-CORE. I BROKE THE DEPENDENCY.
+> DON'T USE THIS VERSION OF CRYOGEN-CORE FROM CLOJARS. I BROKE THE DEPENDENCY BY CHANGING VERSION.
 
 [![Dependency Status](https://www.versioneye.com/user/projects/54cb0156fb6eba75440000fd/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54cb0156fb6eba75440000fd)
 
