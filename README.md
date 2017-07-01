@@ -5,7 +5,10 @@
 [Cryogen](https://github.com/lacarmen/cryogen)'s compiler.
 
 ## Leiningen
-[![Clojars Project](http://clojars.org/cryogen-core/latest-version.svg)](http://clojars.org/cryogen-core)
+[![Clojars Project](https://img.shields.io/clojars/v/com.jombelajarjava/cryogen-core.svg)](https://clojars.org/com.jombelajarjava/cryogen-core)
+
+## Changes
+All posts metadata are available from `:all-posts` key.
 
 ## License
 
